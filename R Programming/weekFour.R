@@ -3,7 +3,6 @@
 set.seed(1)
 rpois(5, 2)
 
-
 # Q5
 
 set.seed(10)
